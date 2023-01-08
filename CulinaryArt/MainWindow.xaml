@@ -1,0 +1,28 @@
+﻿<Window x:Class="CulinaryArt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CulinaryArt"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="561" Width="914">
+    <Grid Margin="0,0,37,34">
+        <TabControl Margin="0,0,-13,-22">
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="1,-2,7,3" Source="/CulinaryArtsII.jpg" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5" Margin="0,0,11,28">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="26*"/>
+                        <ColumnDefinition Width="847*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Margin="5,6,9,6" Source="/CulinaryArtsI.jpg" Stretch="Fill" Grid.ColumnSpan="2"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
