@@ -12,5 +12,5 @@ Project provides an overview of project cooking for family and friends
 ![image](EthicsandExcellence.png)
 
 ## USCopyrightCertificate
-![image](USCopyrightCertificate.pmg)
+![image](USCopyrightCertificate.png)
 
