@@ -11,10 +11,10 @@ Project provides an overview of project cooking for family and friends
 ## Cooking for family and friends
 ![image](CulinaryArtsIII.jpg)
 
-## EthicsandExcellence
+## Ethic and Excellence
 ![image](EthicsandExcellence.png)
 
-## USCopyrightCertificate
+## US Copyright Certificate
 ![image](USCopyrightCertificate.png)
 
 Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
