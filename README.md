@@ -11,6 +11,8 @@ Project provides an overview of project cooking for family and friends
 ## Cooking for family and friends
 ![image](CulinaryArtsIII.jpg)
 
+### Reference Tarla Dalal
+
 ## Ethic and Excellence
 ![image](EthicsandExcellence.png)
 
