@@ -9,8 +9,8 @@ Project provides an overview of project cooking for family and friends
 ![image](CulinaryArtsII.jpg)
 
 ## EthicsandExcellence
-![image]()
+![image](EthicsandExcellence.png)
 
 ## USCopyrightCertificate
-![image]()
+![image](USCopyrightCertificate.pmg)
 
