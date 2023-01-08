@@ -8,6 +8,9 @@ Project provides an overview of project cooking for family and friends
 ## Cooking for family and friends
 ![image](CulinaryArts.jpg)
 
+## Cooking for family and friends
+![image](CulinaryArtsIII.jpg)
+
 ## EthicsandExcellence
 ![image](EthicsandExcellence.png)
 
