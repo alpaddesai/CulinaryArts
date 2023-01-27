@@ -19,4 +19,4 @@ Project provides an overview of project cooking for family and friends
 ## US Copyright Certificate
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
+Additional details reference https://github.com/alpaddesai/LifeStyle
